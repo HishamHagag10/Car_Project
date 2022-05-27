@@ -669,7 +669,7 @@ ol li {
   #contentSection
 {
     height: 200px;
-    width: 400px;
+    width: 350px;
     position: absolute;
     left: 5%;
     top: calc(50% - 200px);
