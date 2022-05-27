@@ -736,7 +736,7 @@ input[type=text], input[type=password] ,input[type=text]{
 #rescontentSection
 {
     height: 200px;
-    width: 400px;
+    width: 350px;
     position: absolute;
     left: 5%;
     top: calc(50% - 200px);
